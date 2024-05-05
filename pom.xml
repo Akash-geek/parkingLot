@@ -14,7 +14,7 @@
 	<name>parking</name>
 	<description>Parking lot management project using Spring Boot</description>
 	<properties>
-		<java.version>22</java.version>
+		<java.version>17</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
